@@ -15,6 +15,7 @@ public class Main {
         System.out.println(student.student_age);
         System.out.println(student.strudent_faculty);
         System.out.println(p);
+        System.out.println("v2");
 
         List<Integer> numbers = new ArrayList<>();
 
